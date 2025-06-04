@@ -22,6 +22,9 @@
    Клиенты могут записаться на консультацию или встречу через чат с ассистентом. После этого событие автоматически добавляется в Google Календарь компании.
 
    ![Иллюстрация к проекту](https://github.com/Dasistdos/ai_assistent/blob/main/p56S4si-Guo.jpg?raw=true)
+   ![Иллюстрация к проекту](https://github.com/Dasistdos/ai_assistent/blob/main/RW4ETdkiHF8.jpg?raw=true)
+   ![Иллюстрация к проекту](https://github.com/Dasistdos/ai_assistent/blob/main/TDrRI2n8rp0.jpg?raw=true)
+   ![Иллюстрация к проекту](https://github.com/Dasistdos/ai_assistent/blob/main/Icxs4h7KFEI.jpg?raw=true)
 
 ---
 
